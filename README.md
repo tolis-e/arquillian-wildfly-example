@@ -1,4 +1,5 @@
 # Arquillian WildFly Example
+[![Build Status](https://travis-ci.org/tolis-e/arquillian-wildfly-example.png)](https://travis-ci.org/tolis-e/arquillian-wildfly-example)
 This project contains an [Arquillian](https://github.com/arquillian) test example which is executed against [WildFly](http://wildfly.org/) application server.
 
 The [Arquillian](http://arquillian.org/) testing platform is used to enable the testing automation. Arquillian integrates transparently with the testing framework which is JUnit in this case.
